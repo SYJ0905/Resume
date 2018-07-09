@@ -36,7 +36,7 @@
   * 使用雙向綁定特性製作待辦清單
   * 撰寫資料邏輯效果 - 新增、修改、刪除、過濾
 
-* [高雄旅遊資訊查詢網 (Vue、Ajax、JavaScript)](https://yangjiesu.github.io/OpenData/)
+* [高雄旅遊資訊查詢網 (Vue、Ajax、JavaScript)](https://yangjiesu.github.io/Kaohsiung-tourist-attractions/)
 
   * 使用 Vue.js 加速開發
   * 使用 Ajax 取得 Open Data 資料
