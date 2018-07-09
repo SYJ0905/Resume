@@ -24,3 +24,17 @@
 ### Front-end Framework: Vue.js
 * 具備 Vue.js 基本概念，包含 生命週期、 雙向資料綁定、 component 使用
 * 基本 Vue-cli webpack 使用
+
+## Works
+* [六角西餐廳 (RWD、Scss、jQuery)]()
+ * 不依賴 css Framework ， 純手刻 RWD 響應式網頁
+ * 使用 Scss 以便後續維護與更新
+
+* [待辦事項清單 (Vue、JavaScript、BootStrap)]()
+ * 使用雙向綁定特性製作待辦清單
+ * 撰寫資料邏輯效果 - 新增、修改、刪除、過濾
+
+* [高雄旅遊資訊查詢網 (Vue、Ajax、JavaScript)]()
+ * 使用 Vue.js 加速開發
+ * 使用 Ajax 取得 Open Data 資料
+ * 撰寫分頁效果
