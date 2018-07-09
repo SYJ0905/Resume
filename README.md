@@ -1,11 +1,10 @@
 # 蘇揚傑 ( Yang-Jie Su)
 
 ## Information
-<ul>
-<li>Location: 臺北市中山區</li>
-<li>Email: BetaPhoenixSNSD@gmai.com</li>
-<li>Mobile: 0920-598-012</li>
-</ul>
+
+* Location: 臺北市中山區
+* Email: BetaPhoenixSNSD@gmai.com
+* Mobile: 0920-598-012
 
 
 ## Skills
