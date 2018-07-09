@@ -18,6 +18,12 @@
 <li>了解 Bootstrap4 常用元件，並且使用 Bootstrap 加速開發流程</li>
 </ul>
 
+### Javascript/jQuery
+<ul>
+<li>了解 jQuery 語法，包含 DOM 元素之操控並製作微互動效果</li>
+<li>了解 Javascript 原生語法，撰寫網頁邏輯效果(ex. 分頁製作、Ajax資料擷取、API串接)</li>
+</ul>
+
 
 ### git/github
 <ul>
