@@ -61,7 +61,7 @@
   * 撰寫資料邏輯效果 - 新增、修改、刪除、過濾
   
 
-* [高雄旅遊資訊網 (Vue、Ajax、JavaScript)](https://github.com/YangJieSu/Typhoon-Project)
+* [高雄旅遊資訊網 (Vue、Ajax、JavaScript)](https://yangjiesu.github.io/Kaohsiung-tourist-attractions/)
 
   * 使用 Vue.js 加速開發
   * 使用政府開放平台抓取JSON資料，並透過Javascript / Ajax呈現在網頁上
