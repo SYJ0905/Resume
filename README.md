@@ -4,7 +4,7 @@
 * Birthday: 1994/09/05
 * Education: 國立臺灣師範大學-地球科學系
 * Location: 臺北市中山區
-* Email: BetaPhoenixSNSD@gmai.com
+* Email: BetaPhoenixSNSD@gmail.com
 * Mobile: 0920-598-012
 
 ## Skills
