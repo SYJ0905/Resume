@@ -1,7 +1,7 @@
 # 蘇揚傑 ( Yang-Jie Su)
 
 ## Information
-* Birthday: 19944/09/05
+* Birthday: 1994/09/05
 * Education: 國立臺灣師範大學-地球科學系
 * Location: 臺北市中山區
 * Email: BetaPhoenixSNSD@gmai.com
