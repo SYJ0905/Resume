@@ -38,8 +38,8 @@
   * 使用 Vue-Router 製作 SPA 網頁
   * 使用 Bootstrap 加速開發
   * 透過 Ajax 串接後端 API ，達成前台與後台系統
-  * 前台 (https://yangjiesu.github.io/Shopping-customer-Vue/dist)
-  * 後台管理 (https://yangjiesu.github.io/Shopping-Vue/dist)
+  * 前台 (https://yangjiesu.github.io/PlayStation-custom/dist)
+  * 後台管理 (https://yangjiesu.github.io/PlayStation-admin/dist)
   
 
 * [六角西餐廳 (RWD、Scss、jQuery)](https://github.com/YangJieSu/HexRestaurant)
