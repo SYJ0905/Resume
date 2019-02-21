@@ -19,6 +19,8 @@
 * 使用 Github Page 建立靜態網頁
 ### Gulp自動化套件
 * 運用 Gulp 管理專案，增進開發效率、並解決瀏覽器支援度
+
+
 ### Javascript/jQuery
 * 了解 jQuery 語法，包含 DOM 元素之操控並製作微互動效果
 * 了解 Javascript 原生語法，撰寫網頁邏輯效果(ex. 分頁製作、Ajax資料擷取、API串接)
