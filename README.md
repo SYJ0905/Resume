@@ -31,8 +31,8 @@
   * 透過 Ajax 串接後端 API ，達成前台與後台系統
   * [前台](https://yangjiesu.github.io/PlayStation-custom/dist)
   * [後台管理](https://yangjiesu.github.io/PlayStation-admin/dist)
-* [六角西餐廳 (RWD、Scss、jQuery)](https://github.com/YangJieSu/HexRestaurant)
-  * 不依賴 css Framework ， 純手刻 RWD 響應式網頁 
+* [CF台灣社團官網 (RWD、Scss、jQuery)](https://yangjiesu.github.io/CF-TW/)
+  * RWD 響應式網頁 
   * 使用 Scss 以便後續維護與更新
 * [颱風防災資訊平台 (Vue、Ajax、JavaScript)](https://github.com/YangJieSu/Typhoon-Project)
   * 使用 Vue.js 加速開發
