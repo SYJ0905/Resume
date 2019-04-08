@@ -24,6 +24,8 @@
 * 了解 Javascript 原生語法，撰寫網頁邏輯效果(ex. 分頁製作、Ajax資料擷取、API串接)
 ## 工作經驗
 * 海棠設計有限公司-前端工程師(2018/9 ~ 2018/12)
+  * 企業形象網站開發
+  * 活動網站製作
 ## 前端開發
 * [Vue Shop 購物網 (Vue、Ajax、JavaScript)]
   * 使用 Vue-Router 製作 SPA 網頁
