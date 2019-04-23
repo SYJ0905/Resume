@@ -5,6 +5,7 @@
 * Location: 臺北市中山區
 * Email: BetaPhoenixSNSD@gmail.com
 * Mobile: 0920-598-012
+
 ## 前端技能
 ### Web Layout/Bootstrap
 * 熟悉 HTML5 + CSS3 建立網頁架構與佈局，並加以美化網頁
@@ -22,10 +23,12 @@
 ### Javascript/jQuery
 * 了解 jQuery 語法，包含 DOM 元素之操控並製作微互動效果
 * 了解 Javascript 原生語法，撰寫網頁邏輯效果(ex. 分頁製作、Ajax資料擷取、API串接)
+
 ## 工作經驗
 * 海棠設計有限公司-前端工程師(2018/9 ~ 2018/12)
   * 企業形象網站開發
   * 活動網站製作
+  
 ## 前端開發
 * [Vue Shop 購物網 (Vue、Ajax、JavaScript)]
   * 使用 Vue-Router 製作 SPA 網頁
