@@ -36,7 +36,7 @@
   * 活動網站製作
   
 ## 前端開發
-* [無二/福貴糕 (Nuxt、Ajax)] (https://www.gpselect.com.tw/)
+* [無二/福貴糕 (Nuxt、Ajax)](https://www.gpselect.com.tw/)
   * 重構公司電商網站，導入 Nuxt 技術，改善使用者體驗及效能
   * 使用 Vuex 進行狀態管理
   * 處理各種追蹤/廣告埋 code ( 包含：GA、GTM、FB Pixel、Yahoo 原生廣告 )
