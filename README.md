@@ -1,4 +1,4 @@
-# 蘇揚傑 ( Yang-Jie Su)
+# 蘇揚傑 (Su,Yang-Jie)
 ## Information
 * Birthday: 1994/09/05
 * Education: 國立臺灣師範大學-地球科學系
